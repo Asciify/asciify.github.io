@@ -1,0 +1,9 @@
+html, body{
+	font-size:8px;
+	font-family:monospace;
+	letter-spacing:0.5em;
+	line-height:1em;
+	word-wrap: break-word; 
+	white-space: pre-wrap;
+	font-weight: bolder;
+}
